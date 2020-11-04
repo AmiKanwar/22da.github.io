@@ -1,0 +1,13 @@
+.content{
+	border: yellow solid 5px;
+	height: 400px;
+}
+h1{
+	font-size: 18px;
+	color: lightgreen;
+}
+h2{
+	color: gold;
+	font-size: 14px;
+
+}
